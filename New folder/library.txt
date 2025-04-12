@@ -1,0 +1,35 @@
+=== Book Entry ===
+Title : The Lord of the Rings
+Author : John Ronald Reuel Tolkien
+Publication Year : July 29, 1954
+Genre : Fantasy Fiction
+Status : Read
+==================
+=== Book Entry ===
+Title : Harry Potter
+Author : J. K. Rolling
+Publication Year : Sep 12, 1997
+Genre : Fantasy
+Status : Yes
+==================
+=== Book Entry ===
+Title : The Hobbit
+Author : John Ronald Reuel Tolkien
+Publication Year : September 21, 1937
+Genre : Fantasy Fiction, Children's Literature
+Status : False
+==================
+=== Book Entry ===
+Title : Little Women
+Author : Louisa May Alcott
+Publication Year : 1868
+Genre : coming-of-age
+Status : False
+==================
+=== Book Entry ===
+Title : Shikwa
+Author : Muhammad Iqbal
+Publication Year : 1913
+Genre : Spritual
+Status : No
+==================
