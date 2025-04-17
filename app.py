@@ -81,4 +81,4 @@ if uploaded_files:
                 mime=mime_type
             )
 
-st.success("🎉 Alll File Processed!")
+            st.success("🎉 All File Processed!")
